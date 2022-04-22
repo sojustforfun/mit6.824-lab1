@@ -6,7 +6,7 @@ package main
 // go build -buildmode=plugin nocrash.go
 //
 
-//import "github.com/sojustforfun/mit6.824-lab1/mr"
+import "github.com/sojustforfun/mit6.824-lab1/mr"
 import crand "crypto/rand"
 import "math/big"
 import "strings"

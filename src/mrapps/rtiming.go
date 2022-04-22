@@ -7,7 +7,7 @@ package main
 // go build -buildmode=plugin rtiming.go
 //
 
-//import "github.com/sojustforfun/mit6.824-lab1/mr"
+import "github.com/sojustforfun/mit6.824-lab1/mr"
 import "fmt"
 import "os"
 import "syscall"
