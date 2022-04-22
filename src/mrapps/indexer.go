@@ -7,7 +7,7 @@ package main
 //
 
 import "fmt"
-import "github.com/sojustforfun/mit6.824lab1/mr"
+import "github.com/sojustforfun/mit6.824lab1/src/main/mr"
 
 import "strings"
 import "unicode"
