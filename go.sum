@@ -1,2 +1,4 @@
 github.com/davyxu/cellnet v4.1.0+incompatible h1:zDRqhkFRhBTD7ajra2888aoRLN1qlv8LV8+qHg/emO4=
 github.com/davyxu/cellnet v4.1.0+incompatible/go.mod h1:YyjRD4BinuDQmXWX7iHjPtnVf3qp2EzVN2/7P/8GKXE=
+github.com/youwu-duxiaomeng/awesome-database-learning v0.0.0-20220329025137-b65cb5bfc2b4 h1:90/BODY5fYb5Q4Jp+EZ/W2jxgrNCOXtbxgUOE1qP9qY=
+github.com/youwu-duxiaomeng/awesome-database-learning v0.0.0-20220329025137-b65cb5bfc2b4/go.mod h1:ES1rumjlS0FYCBpV3wiTaBGQLI34EhiQLJqtsp6ukZc=
