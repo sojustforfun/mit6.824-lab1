@@ -9,7 +9,7 @@ package main
 // Please do not change this file.
 //
 
-import "github.com/sojustforfun/mit6.824lab1/mr"
+import "github.com/sojustforfun/mit6.824lab1/src/main/mr"
 import "time"
 import "os"
 import "fmt"
