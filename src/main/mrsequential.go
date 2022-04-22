@@ -7,7 +7,7 @@ package main
 //
 
 import "fmt"
-import "github.com/sojustforfun/mit6.824-lab1.git@mr"
+//import "github.com/sojustforfun/mit6.824-lab1/mr"
 import "plugin"
 import "os"
 import "log"
