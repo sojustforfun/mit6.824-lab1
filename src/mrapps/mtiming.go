@@ -7,7 +7,7 @@ package main
 // go build -buildmode=plugin mtiming.go
 //
 
-import "github.com/sojustforfun/mit6.824-lab1.git/mr"
+import "github.com/sojustforfun/mit6.824-lab1.git@mr"
 import "strings"
 import "fmt"
 import "os"
